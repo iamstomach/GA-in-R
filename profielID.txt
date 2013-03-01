@@ -1,0 +1,227 @@
+- Hide headers -
+ 
+cache-control:  private, max-age=0, must-revalidate, no-transform
+content-type:  application/json; charset=UTF-8
+date:  Thu, 24 Jan 2013 08:50:45 GMT
+etag:  "O3bjfcoQZd6Epl_Pf6WLM-E7juY/NKCYglhFp-KUVhZyzX6cjyfPMgc"
+expires:  Thu, 24 Jan 2013 08:50:45 GMT
+server:  GSE
+ 
+{
+ "kind": "analytics#profiles",
+ "username": "chengpingjixin@gmail.com",
+ "totalResults": 8,
+ "startIndex": 1,
+ "itemsPerPage": 1000,
+ "items": [
+  {
+   "id": "54907623",
+   "kind": "analytics#profile",
+   "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2/profiles/54907623",
+   "accountId": "28299351",
+   "webPropertyId": "UA-28299351-2",
+   "internalWebPropertyId": "54007811",
+   "name": "www.easybuy.com.cn",
+   "currency": "USD",
+   "timezone": "Asia/Shanghai",
+   "websiteUrl": "http://www.easybuy.com.cn",
+   "defaultPage": "index.html",
+   "siteSearchQueryParameters": "key",
+   "type": "WEB",
+   "created": "2012-01-13T02:41:01.251Z",
+   "updated": "2012-04-12T01:53:46.529Z",
+   "eCommerceTracking": false,
+   "parentLink": {
+    "type": "analytics#webproperty",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2"
+   },
+   "childLink": {
+    "type": "analytics#goals",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2/profiles/54907623/goals"
+   }
+  },
+  {
+   "id": "58559351",
+   "kind": "analytics#profile",
+   "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2/profiles/58559351",
+   "accountId": "28299351",
+   "webPropertyId": "UA-28299351-2",
+   "internalWebPropertyId": "54007811",
+   "name": "亿佰（除内网）",
+   "currency": "CNY",
+   "timezone": "Asia/Shanghai",
+   "websiteUrl": "http://www.easybuy.com.cn",
+   "defaultPage": "index.html",
+   "excludeQueryParameters": "adw_source,adw_medium,adw_term,adw_content,adw_attr",
+   "siteSearchQueryParameters": "searchWrods,kw",
+   "type": "WEB",
+   "created": "2012-04-12T11:34:37.210Z",
+   "updated": "2013-01-16T10:01:48.545Z",
+   "eCommerceTracking": false,
+   "parentLink": {
+    "type": "analytics#webproperty",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2"
+   },
+   "childLink": {
+    "type": "analytics#goals",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2/profiles/58559351/goals"
+   }
+  },
+  {
+   "id": "61557822",
+   "kind": "analytics#profile",
+   "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2/profiles/61557822",
+   "accountId": "28299351",
+   "webPropertyId": "UA-28299351-2",
+   "internalWebPropertyId": "54007811",
+   "name": "渤海商城",
+   "currency": "CNY",
+   "timezone": "Asia/Shanghai",
+   "websiteUrl": "http://cbhb.easybuy.com.cn/",
+   "defaultPage": "index.html",
+   "type": "WEB",
+   "created": "2012-06-29T09:41:01.751Z",
+   "updated": "2012-07-11T07:07:41.045Z",
+   "eCommerceTracking": true,
+   "parentLink": {
+    "type": "analytics#webproperty",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2"
+   },
+   "childLink": {
+    "type": "analytics#goals",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2/profiles/61557822/goals"
+   }
+  },
+  {
+   "id": "62893218",
+   "kind": "analytics#profile",
+   "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2/profiles/62893218",
+   "accountId": "28299351",
+   "webPropertyId": "UA-28299351-2",
+   "internalWebPropertyId": "54007811",
+   "name": "亿佰（站内广告跟踪）",
+   "currency": "CNY",
+   "timezone": "America/Los_Angeles",
+   "websiteUrl": "http://www.easybuy.com.cn",
+   "defaultPage": "index.html",
+   "excludeQueryParameters": "searchFlag,adw_source,adw_medium,adw_term,adw_content,adw_attr",
+   "siteSearchQueryParameters": "icn,position",
+   "siteSearchCategoryParameters": "pos",
+   "type": "WEB",
+   "created": "2012-08-09T05:59:52.726Z",
+   "updated": "2012-10-18T09:14:21.613Z",
+   "eCommerceTracking": false,
+   "parentLink": {
+    "type": "analytics#webproperty",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2"
+   },
+   "childLink": {
+    "type": "analytics#goals",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2/profiles/62893218/goals"
+   }
+  },
+  {
+   "id": "63757847",
+   "kind": "analytics#profile",
+   "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2/profiles/63757847",
+   "accountId": "28299351",
+   "webPropertyId": "UA-28299351-2",
+   "internalWebPropertyId": "54007811",
+   "name": "虚拟页面",
+   "currency": "CNY",
+   "timezone": "America/Los_Angeles",
+   "websiteUrl": "http://www.easybuy.com.cn",
+   "defaultPage": "index.html",
+   "excludeQueryParameters": "adw_source,adw_medium,adw_term,adw_content,adw_attr",
+   "type": "WEB",
+   "created": "2012-09-06T12:28:50.046Z",
+   "updated": "2012-10-23T09:51:27.157Z",
+   "eCommerceTracking": false,
+   "parentLink": {
+    "type": "analytics#webproperty",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2"
+   },
+   "childLink": {
+    "type": "analytics#goals",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2/profiles/63757847/goals"
+   }
+  },
+  {
+   "id": "64949111",
+   "kind": "analytics#profile",
+   "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2/profiles/64949111",
+   "accountId": "28299351",
+   "webPropertyId": "UA-28299351-2",
+   "internalWebPropertyId": "54007811",
+   "name": "站内广告跟踪(副本）",
+   "currency": "CNY",
+   "timezone": "America/Los_Angeles",
+   "websiteUrl": "http://www.easybuy.com.cn",
+   "siteSearchQueryParameters": "icn,position",
+   "siteSearchCategoryParameters": "pos",
+   "type": "WEB",
+   "created": "2012-10-11T07:11:58.508Z",
+   "updated": "2012-10-12T01:15:04.007Z",
+   "eCommerceTracking": true,
+   "parentLink": {
+    "type": "analytics#webproperty",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2"
+   },
+   "childLink": {
+    "type": "analytics#goals",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-2/profiles/64949111/goals"
+   }
+  },
+  {
+   "id": "54882289",
+   "kind": "analytics#profile",
+   "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-3/profiles/54882289",
+   "accountId": "28299351",
+   "webPropertyId": "UA-28299351-3",
+   "internalWebPropertyId": "53999460",
+   "name": "vip.easybuy.com.cn",
+   "currency": "USD",
+   "timezone": "Asia/Shanghai",
+   "websiteUrl": "http://vip.easybuy.com.cn",
+   "type": "WEB",
+   "created": "2012-01-13T02:52:34.782Z",
+   "updated": "2012-01-13T04:00:42.801Z",
+   "eCommerceTracking": true,
+   "parentLink": {
+    "type": "analytics#webproperty",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-3"
+   },
+   "childLink": {
+    "type": "analytics#goals",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-3/profiles/54882289/goals"
+   }
+  },
+  {
+   "id": "63758150",
+   "kind": "analytics#profile",
+   "selfLink": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-4/profiles/63758150",
+   "accountId": "28299351",
+   "webPropertyId": "UA-28299351-4",
+   "internalWebPropertyId": "62202683",
+   "name": "虚拟页面",
+   "currency": "CNY",
+   "timezone": "America/Los_Angeles",
+   "websiteUrl": "http://www.easybuy.com.cn",
+   "defaultPage": "index.html",
+   "excludeQueryParameters": "adw_source,adw_medium,adw_term,adw_content,adw_attr",
+   "siteSearchQueryParameters": "kw",
+   "type": "WEB",
+   "created": "2012-09-06T12:31:03.820Z",
+   "updated": "2013-01-21T03:19:00.308Z",
+   "eCommerceTracking": false,
+   "parentLink": {
+    "type": "analytics#webproperty",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-4"
+   },
+   "childLink": {
+    "type": "analytics#goals",
+    "href": "https://www.googleapis.com/analytics/v3/management/accounts/28299351/webproperties/UA-28299351-4/profiles/63758150/goals"
+   }
+  }
+ ]
+}
